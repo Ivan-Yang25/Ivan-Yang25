@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a personal proyect. 😎<br>I'm currently learning about React JS. 😊<br>I'm looking collaborate white others development. 👀<br>I'm looking for a job. 😢
+I'm currently working on a personal proyect. 😎<br>I'm currently learning about React JS. 😊<br>I'm looking collaborate whit others development. 👀<br>I'm looking for a job. 😢
 
 
 ## 🌐 Socials:
