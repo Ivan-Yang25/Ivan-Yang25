@@ -91,9 +91,6 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/Ivan-Yang25/Ivan-Yang25/output/snake.svg" alt="Snake animation" />
 
 ###
 
